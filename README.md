@@ -38,6 +38,6 @@ This project is a graphical user interface (GUI) application built using Python'
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Authors
+## Author
 
 - Asef Sami Chowdhury
