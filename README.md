@@ -34,9 +34,6 @@ This project is a graphical user interface (GUI) application built using Python'
 - **Export Data**:
   Export student records to a CSV file for external use or reporting.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Author
 
